@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+input {
+  /* width: 10em; */
+  height: 2em;
+  margin: 3px;
+  border-style: none;
+  border-radius: 5%;
+}
+
+.btn {
+  width: 10em;
+  height: 2em;
+  margin: auto;
+  border-style: outset;
+  border-radius: 5%;
+
+  background-color: rgba(177, 150, 150, 0.691);
+}
